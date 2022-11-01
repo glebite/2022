@@ -3,13 +3,32 @@
 Image from: [Wikimedia](https://commons.wikimedia.org/wiki/File:The_phoenix_rises.jpg)
 New tools with hacktivism for doing humanitarian stuff. 
 
-## installation:
+## installation:  
+Clone from github:  
+> cd projects (or wherever you store your cloned repos)  
+> git clone https://github.com/glebite/2022.git  
+> cd 2022
 
+Build a python virtual environment:  
+> python3 -m venv venv  
+Linux/MAC:
+(I don't have a MAC but I suspect it's the same)  
+> source venv/bin/activate
+Windows:
+> venv\Scripts\Activate
+
+Install prerequisites:
+> python3 -m pip install -r requirements.txt
+
+Have fun:
+>
 
 ## tools:  
   
 ### unmembers.py  
-This tool retrieves the .json data from the unmeetings.org and pulls out
-the country name and email information for the various missions.
+This tool retrieves the .json data from the unmeetings.org and extracts
+the country name and email information for the various missions at the UN.
+
+
 
 

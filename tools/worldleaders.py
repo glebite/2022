@@ -23,10 +23,9 @@ def google(q):
 
     soup = BeautifulSoup(r.text, "html.parser")
     output = []
-    for tag in soup:
-        if tag == "h3":
-            print(tag)
-            break
+    print(soup.body.h3)
+
+    
     # for searchWrapper in soup.find_all('h3'): #this line may change in future based on google's web page structure
     #     url = searchWrapper.find('a')["href"] 
     #     text = searchWrapper.find('a').text.strip()
@@ -37,24 +36,22 @@ def google(q):
 
 
 
-# if __name__ == "__main__":
-#     scratch = requests.get('https://en.wikipedia.org/wiki/List_of_current_heads_of_state_and_government').text
-#     soup = bs.BeautifulSoup(scratch, features='lxml')
-#     table = soup.find("table", {"class": "wikitable plainrowheaders"})
+if __name__ == "__main__":
+    scratch = requests.get('https://en.wikipedia.org/wiki/List_of_current_heads_of_state_and_government').text
+    soup = BeautifulSoup(scratch, features='lxml')
+    table = soup.find("table", {"class": "wikitable plainrowheaders"})
 
-#     rows = table.findAll(lambda tag: tag.name=='tr')
-#     for row in rows:
-#         th = row.find("th", {"scope": "row"})
-#         if th:
-#             anchor = th.find("a")
-#             country = anchor.text
-#             print(country)
-#         td = row.find("td", {"style": re.compile(r".*")})
-#         if td:
-#             anchors = td.findAll("a")
-#             if len(anchors) >= 2:
-#                 print(f'\t{anchors[0].text}\n\t\t {anchors[1].text}')
-#             else:
-#                 print("\tInteresting...")
-        
-print(google('prime minister email: au'))
+    rows = table.findAll(lambda tag: tag.name=='tr')
+    for row in rows:
+        th = row.find("th", {"scope": "row"})
+        if th:
+            anchor = th.find("a")
+            country = anchor.text
+        td = row.find("td", {"style": re.compile(r".*")})
+        if td:
+            anchors = td.findAll("a")
+            if len(anchors) >= 2:
+                print(f'official {anchors[0].text} website {country}')
+                print(f'official {anchors[1].text} website {country}')
+            else:
+                print("\tInteresting...")

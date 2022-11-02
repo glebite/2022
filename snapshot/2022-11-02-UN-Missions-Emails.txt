@@ -1,0 +1,196 @@
+                                 MC_Entity                                                               MC_eMail MC_UNCorrespondenceLanguage
+21                             AFGHANISTAN                                                info@afghanistan-un.org                     English
+8                                  ALBANIA         mission.newyork@mfa.gov.al\nOfficeofthePR.Albania@mfa.gov.al\n                     English
+2                                  ALGERIA                                                         algeria@un.int                      French
+10                                 ANDORRA                                                  contact@andorraun.org             French; English
+7                                   ANGOLA                                          theangolamission@angolaun.org                     English
+5                      ANTIGUA AND BARBUDA  unmission@ab.gov.ag\r\njackley.peters@ab.gov.ag (Ambassador's Office)                     English
+15                               ARGENTINA                                                    enaun@mrecic.gov.ar                     Spanish
+19                                 ARMENIA                                                         armenia@un.int                     English
+16                               AUSTRALIA                                                       australia@un.int                     English
+20                                 AUSTRIA                                                new-york-ov@bmeia.gv.at                     English
+13                              AZERBAIJAN                                                      azerbaijan@un.int                     English
+1                                  BAHAMAS                                                 mission@bahamasny.com                      English
+9                                  BAHRAIN                                                        bahrain1@un.int                     English
+11                              BANGLADESH                                  bangladesh@un.int\r\nbdpmny@gmail.com                     English
+3                                 BARBADOS                                 prun@foreign.gov.bb\r\nbarbados@un.int                     English
+4                                  BELARUS                                                       usaun@mfa.gov.by                     English
+14                                 BELGIUM                                              newyorkun@diplobel.fed.be                      French
+17                                  BELIZE                               blzun@belizemission.com\r\nblzun@aol.com                     English
+18                                   BENIN                             onu.newyork@gouv.bj/ beninewyork@gmail.com                      French
+12                                  BHUTAN                                                 bhutanmission@pmbny.bt                     English
+6         BOLIVIA (PLURINATIONAL STATE OF)                                           missionboliviaun@gmail.com\n                     Spanish
+0                   BOSNIA AND HERZEGOVINA                                                       bihun@mvp.gov.ba                     English
+22                                BOTSWANA                                                        botswana@un.int                     English
+36                                  BRAZIL                                     distri.delbrasonu@itamaraty.gov.br                     English
+35                       BRUNEI DARUSSALAM                                                          brunei@un.int                     English
+38                                BULGARIA                              bulgaria@un.int\r\nmission.newyork@mfa.bg              English\French
+29                            BURKINA FASO                                                           bfapm@un.int                      French
+42                                 BURUNDI                                                 ambabunewyork@yahoo.fr                      French
+37                              CABO VERDE                                                       capeverde@un.int                      French
+41                                CAMBODIA                                                        cambodia@un.int                     English
+44                                CAMEROON                                            cameroon.mission@yahoo.com               French/English
+34                                  CANADA                                          canada.un@international.gc.ca              English/French
+43                CENTRAL AFRICAN REPUBLIC                                                repercaf.ny@gmail.com\n                      French
+24                                    CHAD                                              chadmission.un@gmail.com                       French
+31                                   CHILE                                                 chile.un@minrel.gob.cl                     Spanish
+40                                   CHINA                                               chinesemission@yahoo.com                     English
+23                                COLOMBIA                                                colombia@colombiaun.org                     Spanish
+26                                 COMOROS                                                         comoros@un.int                      French
+39                                   CONGO                                                cgbrazzadel60@gmail.com                      French
+30                              COSTA RICA               contact.costaricamission@gmail.com\nmiscr-onu@rree.go.cr                     Spanish
+32                                 CROATIA                                                     cromiss.un@mvep.hr                     English
+25                                    CUBA                                              cuba_onu@cubanmission.com                     Spanish
+33                                  CYPRUS                                                   unmission@mfa.gov.cy                     English
+28                                 CZECHIA                                              un.newyork@embassy.mzv.cz                     English
+27                          CÃTE D'IVOIRE                                           cotedivoiremission@yahoo.com                      French
+98   DEMOCRATIC PEOPLE'S REPUBLIC OF KOREA                                                    dprk.un@verizon.net                     English
+45        DEMOCRATIC REPUBLIC OF THE CONGO                                                   missiondrc@gmail.com                      French
+93                                 DENMARK                                                           nycmis@um.dk                     English
+48                                DJIBOUTI                                                      djibouti@nyct.net                      French
+137                               DOMINICA                                                   dominicaun@gmail.com                     English
+99                      DOMINICAN REPUBLIC                                                            drun@un.int                     Spanish
+61                                 ECUADOR                                                         ecuador@un.int                     Spanish
+121                                  EGYPT                                                   mission.egypt@un.int                     English
+72                             EL SALVADOR                                                      elsalvador@un.int                     Spanish
+46                       EQUATORIAL GUINEA                                            info@equatorialguineaun.org                     Spanish
+122                                ERITREA                                                  general@eritreaun.org                     English
+145                                ESTONIA                                                 mission.newyork@mfa.ee                     English
+49                                ESWATINI                       eswatini@un.int\r\neswatinimissionunny@yahoo.com                     English
+107                               ETHIOPIA                                                        ethiopia@un.int                     English
+138                                   FIJI                                                   mission@fijiprun.org                     English
+131                                FINLAND                                                  sanomat.yke@formin.fi                     English
+115                                 FRANCE                                                   france@franceonu.org                      French
+141                                  GABON                                                info@gabonunmission.com                      French
+123                                 GAMBIA                                                  gambia_un@hotmail.com                     English
+78                                 GEORGIA                                               geomission.un@mfa.gov.ge                     English
+146                                GERMANY                                              info@new-york-un.diplo.de                     English
+60                                   GHANA                                                      ghanaperm@aol.com                     English
+139                                 GREECE                                                        grdel.un@mfa.gr                     English
+84                                 GRENADA                                                         grenada@un.int                     English
+153                              GUATEMALA                                                onunewyork@minex.gob.gt                     Spanish
+85                                  GUINEA                                           missionofguinea.un@gmail.com                      French
+86                           GUINEA-BISSAU                      guinebissauonu@gmail.com\r\nguinea-bissau@un.int                       French
+154                                 GUYANA                                                          guyana@un.int                     English
+100                                  HAITI                                          mphonu.newyork@diplomatie.ht                       French
+175                               HOLY SEE                                              office@holyseemission.org              English/French
+50                                HONDURAS                                                   Ny.honduras@hnun.org                     Spanish
+94                                 HUNGARY                                                hungaryun.ny@mfa.gov.hu                     English
+140                                ICELAND                                                       unmission@mfa.is                     English
+108                                  INDIA                                            india.newyorkpmi@mea.gov.in                     English
+73                               INDONESIA                                           ptri@indonesiamission-ny.org                     English
+47              IRAN (ISLAMIC REPUBLIC OF)                                                            Iran@un.int                     English
+77                                    IRAQ                                                    iraq.mission@un.int                     English
+62                                 IRELAND                                                     newyorkpmun@dfa.ie                     English
+57                                  ISRAEL                                              uninfo@newyork.mfa.gov.il                     English
+63                                   ITALY                                                 info.italyun@esteri.it                     English
+51                                 JAMAICA                                                info@prunjamaica-ny.org                     English
+87                                   JAPAN                                                    p-m-j@dn.mofa.go.jp                     English
+124                                 JORDAN                                          missionun@jordanmissionun.com                     English
+88                              KAZAKHSTAN                                                 unkazmission@gmail.com                     English
+125                                  KENYA                                                       info@kenyaun.org                     English
+109                               KIRIBATI                                           kimission.newyork@mfa.gov.ki                     English
+142                                 KUWAIT                                             kuwait@kuwaitmissionun.org                     English
+79                              KYRGYZSTAN                                                      kyrgyzstan@un.int                     English
+74        LAO PEOPLE'S DEMOCRATIC REPUBLIC                                                    lao.pr.ny@gmail.com              English/French
+80                                  LATVIA                                               mission.un-ny@mfa.gov.lv                     English
+126                                LEBANON                        contact@lebanonun.org; ambassador@lebanonun.org              English/French
+147                                LESOTHO                                              lesothonewyork@gmail.com                      English
+132                                LIBERIA                                                         liberia@un.int                     English
+116                                  LIBYA                                                mission@libya-un.gov.ly                     English
+155                          LIECHTENSTEIN                                                         newyork@llv.li                     English
+148                              LITHUANIA                              lithuaniaun@gmail.com\r\nlithuania@un.int                     English
+101                             LUXEMBOURG                                                 newyork.rp@mae.etat.lu                      French
+81                              MADAGASCAR              repermad.ny@gmail.com\nrepermad-newyork@diplomatie.gov.mg                      French
+127                                 MALAWI                                 MalawiNewyork@aol.com; MalawiU@aol.com                     English
+110                               MALAYSIA                                                 mwnewyorkun@kln.gov.my                     English
+133                               MALDIVES                                               info@maldivesmission.com                     English
+128                                   MALI                                                    miperma@malionu.com                      French
+134                                  MALTA                                                malta-un.newyork@gov.mt                     English
+111                       MARSHALL ISLANDS                                                 marshallislands@un.int                     English
+102                             MAURITANIA                                          mauritaniamission@gmail.com                        French
+149                              MAURITIUS                       mauritius@un.int,\nmauritiusmissionnyc@gmail.com                     English
+135                                 MEXICO                                                     onuusr1@sre.gob.mx                     Spanish
+52        MICRONESIA (FEDERATED STATES OF)                                                       fsmun@fsmgov.org                     English
+156                                 MONACO                                                    monaco.un@gmail.com                      French
+64                                MONGOLIA                                      mongolianmission@twcmetrobiz.com                      English
+89                              MONTENEGRO                                                  UN.NewYork@mfa.gov.me                     English
+136                                MOROCCO                                                 morocco.un@maec.gov.ma                      French
+82                              MOZAMBIQUE                                                      mozambique@un.int                     English
+103                                MYANMAR                                           myanmarmission@verizon.net\n                     English
+90                                 NAMIBIA                                              info@namibiaunmission.org                     English
+104                                  NAURU                                                       nauru@un.int\r\n                     English
+129                                  NEPAL                              nepal@un.int\r\nnepalmissionusa@gmail.com                     English
+157                            NETHERLANDS                                                         nyv@minbuza.nl                     English
+150                            NEW ZEALAND                                                       nzpmun@gmail.com                     English
+143                              NICARAGUA                                                       nicaragua@un.int                     Spanish
+95                                   NIGER                                                 nigermission@ymail.com                      French
+53                                 NIGERIA                                            permny@nigeriaunmission.org                     English
+151                        NORTH MACEDONIA                                                     newyork@mfa.gov.mk                     English
+54                                  NORWAY                                                   delun@mfa.no\r\n\r\n                     English
+152                                   OMAN                                                            oman@un.int                     English
+117                               PAKISTAN                                                      pakistan@un.int\n                     English
+65                                   PALAU                                                    mission@palauun.org                     English
+96                                  PANAMA                                                      emb@panama-un.org                     Spanish
+55                        PAPUA NEW GUINEA                                                   pngun@pngmission.org                     English
+91                                PARAGUAY                                                        paraguay@un.int                     Spanish
+97                                    PERU                                                      onuper@unperu.org                     Spanish
+112                            PHILIPPINES                                                    newyork.pm@nypm.org                     English
+75                                  POLAND                                                   poland.un@msz.gov.pl                     English
+66                                PORTUGAL                                                        portugal@un.int                     English
+118                                  QATAR                                                       pmun@mofa.gov.qa                     English
+92                       REPUBLIC OF KOREA                                                    korea.un@mofa.go.kr                     English
+158                    REPUBLIC OF MOLDOVA                                                   unmoldova@mfa.gov.md                     English
+58                                 ROMANIA                                                     newyork-onu@mae.ro              English/French
+59                      RUSSIAN FEDERATION                                                      press@russiaun.ru                     English
+83                                  RWANDA                   ambanewyork@minaffet.gov.rw\r\nambanewyork@gmail.com                     English
+119                  SAINT KITTS AND NEVIS                                                     sknmission@aol.com                     English
+67                             SAINT LUCIA                                                info@stluciamission.org                     English
+113       SAINT VINCENT AND THE GRENADINES                svgmission@gmail.com;\nambassadorassistantsvg@gmail.com                     English
+114                                  SAMOA                                             samoanymission@outlook.com                     English
+68                              SAN MARINO                                                  sanmarinoun@gmail.com                     English
+76                   SAO TOME AND PRINCIPE                                                    rdstppmun@gmail.com                      French
+56                            SAUDI ARABIA                                                   saudi-mission@un.int                     English
+69                                 SENEGAL                                               senegal.mission@yahoo.fr                      French
+144                                 SERBIA                info@serbiamissionun.org\nPR.office@serbiamissionun.org                     English
+130                             SEYCHELLES           seychellesmissionun@gmail.com\r\nseychellesmission@sycun.org                     English
+70                            SIERRA LEONE                                                     sierraleone@un.int                     English
+71                               SINGAPORE                                  singapore@un.int\r\nsingpm_nyc@mfa.sg                     English
+120                               SLOVAKIA                                                      un.newyork@mzv.sk                     English
+105                               SLOVENIA                                                        slovenia@un.int                     English
+106                        SOLOMON ISLANDS                                                     simun@solomons.com                     English
+188                                SOMALIA                                                         somalia@un.int                     English
+198                           SOUTH AFRICA                                              pmun.newyork@dirco.gov.za                     English
+167                            SOUTH SUDAN                                                     info@rssun-nyc.org                     English
+174                                  SPAIN                                               Rep.nuevayorkonu@maec.es                     Spanish
+199                              SRI LANKA                          prun.newyork@mfa.gov.lk\r\nmail@slmission.com                     English
+180                     STATE OF PALESTINE                                                       palestine@un.int                     English
+189                                  SUDAN                                                 sudan@sudanmission.org                     English
+159                               SURINAME                                                        suriname@un.int                     English
+176                                 SWEDEN                                       representationen.new-york@gov.se                     English
+177                            SWITZERLAND                                                newyork.un@eda.admin.ch                      French
+200                   SYRIAN ARAB REPUBLIC                                                           syria@un.int                     English
+183                             TAJIKISTAN                                       tajikistanunmission@gmail.com\n                      English
+160                               THAILAND                                                        thailand@un.int                     English
+165                            TIMOR-LESTE                                                     timor-leste@un.int                     English
+190                                   TOGO                                         togo.mission@togounmission.org                      French
+161                                  TONGA                                               tongaunmission@gmail.com                     English
+201                    TRINIDAD AND TOBAGO                                                             tto@un.int                     English
+207                                TUNISIA                                                 tunisiamission@usa.com                      French
+162                           TURKMENISTAN                                                    turkmenistan@un.int                     English
+191                                 TUVALU                                             tuvalumission.un@gmail.com                     English
+197                              TÃRKÄ°YE                                      tr-delegation.newyork@mfa.gov.tr                      English
+192                                 UGANDA                                                   admin@ugandaunny.com                     English
+193                                UKRAINE                                                    uno_us@mfa.gov.ua\n                     English
+168                   UNITED ARAB EMIRATES                              nyunprm@mofaic.gov.ae;\nNYUNPRM@UAEUN.ORG                     English
+184                         UNITED KINGDOM                                                  ukmissionny@gmail.com                     English
+169            UNITED REPUBLIC OF TANZANIA                                   newyork@nje.go.tz\r\ntanzania@un.int                     English
+202               UNITED STATES OF AMERICA                                                 usun.newyork@state.gov                     English
+170                                URUGUAY                                                 urudeleg@mrree.gub.uy                      Spanish
+203                             UZBEKISTAN                                               uzbekistan.un@gmail.com                      English
+194                                VANUATU                                                       vanunmis@aol.com                     English
+204     VENEZUELA (BOLIVARIAN REPUBLIC OF)                                           misionvenezuelaonu@gmail.com                     Spanish
+205                               VIET NAM                                                    info@vietnam-un.org                     English
+171                                  YEMEN                                               yemenmissionny@gmail.com                     English
+196                                 ZAMBIA                                                          zambia@un.int                     English
+166                               ZIMBABWE                                                   zimnewyork@gmail.com                     English

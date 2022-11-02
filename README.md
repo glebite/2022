@@ -11,17 +11,17 @@ Clone from github:
 
 Build a python virtual environment:  
 > python3 -m venv venv  
-Linux/MAC:
+Linux/MAC:  
 (I don't have a MAC but I suspect it's the same)  
-> source venv/bin/activate
-Windows:
-> venv\Scripts\Activate
+> source venv/bin/activate  
+Windows:  
+> venv\Scripts\Activate  
 
-Install prerequisites:
-> python3 -m pip install -r requirements.txt
+Install prerequisites:  
+> python3 -m pip install -r requirements.txt  
 
-Have fun:
->
+Have fun:  
+> theskyisthelimit  
 
 ## tools:  
   
@@ -32,10 +32,11 @@ the country name and email information for the various missions at the UN.
   
 ### worldleaders.py  
 This tool will find the world leaders from wikipedia and hopefully using some
-other magic, find the email addresses of their government or to their office.
+other magic, find the email addresses of their government or to their office.  
 
-### Canadian MPs
+### Canadian MPs  
 Outputs .csv data with the Names, email, Party, Riding, and Province in Canada
 of all MPs registered with the house of commons.  I will capture the output
-as it shouldn't change too much over a few months.
+as it shouldn't change too much over a few months.  
+
 

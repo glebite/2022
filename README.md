@@ -32,8 +32,7 @@ the country name and email information for the various missions at the UN.
   
 ### worldleaders.py  
 This tool will find the world leaders from wikipedia and hopefully using some
-other magic, find the email addresses of their government or tuncomment-region
-o their office.
+other magic, find the email addresses of their government or to their office.
 
 ### Canadian MPs
 Outputs .csv data with the Names, email, Party, Riding, and Province in Canada

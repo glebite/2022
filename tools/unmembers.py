@@ -1,5 +1,8 @@
 """ unmembers.py
 
+Get a list of UN Members/Missions
+
+Generates a big list.
 """
 import requests
 import pandas as pd

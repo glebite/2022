@@ -6,6 +6,7 @@ Generates a big list.
 """
 import requests
 import pandas as pd
+import json
 
 
 class UnMembers:
@@ -21,7 +22,9 @@ class UnMembers:
         n/a
         """
         self.response = requests.get(url)
-        self.data = self.response.json()
+        print(type(self.response))
+        self.data = str(self.response.content, 'utf-8')
+        self.data = json.loads(self.data)
 
     def create_table(self):
         """

@@ -23,7 +23,7 @@ Instead of re-inventing the wheel, I have the link to the instructions.  These a
 3. Create a draft email and add {{Recipient}} in the "To" field of the draft email.  
 4. Enter your subject such as: "The cruelty of the IRGC must be acted on."  
 5. In the body of the text, enter: "To the Mission to the UN from {{Country Long Name}}:"
-6. Fill out the body of the text - add links to news articles, hash tags, pictures, and close it off.  
+6. Fill out the body of the text - add links to news articles, hash tags, pictures, and of course, Regards, Sincerely, etc...  Leave it as a draft.  
 7. Return to the sheets tab and press Mail Merge.  
 8. You will be prompted for the Subject line of the draft.  In this example, it is: "The cruelty of the IRGC must be acted on."  
 9. You may be requested for permissions - give them.  This is not about you, it's about being their voice.  Be their voice!

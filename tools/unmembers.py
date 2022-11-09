@@ -2,7 +2,9 @@
 
 Get a list of UN Members/Missions
 
-Generates a big list.
+Generates a big list from:
+
+https://bluebook.unmeetings.org/data.json
 """
 import requests
 import pandas as pd

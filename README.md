@@ -34,9 +34,10 @@ the country name and email information for the various missions at the UN.
 This tool will find the world leaders from wikipedia and hopefully using some
 other magic, find the email addresses of their government or to their office.  
 
-### Canadian MPs  
+### CanadianMPs.py  
 Outputs .csv data with the Names, email, Party, Riding, and Province in Canada
 of all MPs registered with the house of commons.  I will capture the output
 as it shouldn't change too much over a few months.  
 
-
+### CanadianMedia.py  
+Grabs and outputs a list of Canadian Media sites.

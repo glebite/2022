@@ -41,3 +41,7 @@ as it shouldn't change too much over a few months.
 
 ### CanadianMedia.py  
 Grabs and outputs a list of Canadian Media sites.
+
+### twit_gen.py
+Stupid tool that can pump out auto tweets to the console.  Yes, a twitter bot could do this faster but I have had warnings in the past with my account so for now copying and pasting will suffice.
+
